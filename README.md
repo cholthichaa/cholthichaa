@@ -1,17 +1,22 @@
 # Hi there 👋 I'm Cholthicha Boonsanud
 
 ### About Me:
+- 👋 I'm Thicha, 23 years old
 - 🌏 Based in Khon Kaen, Thailand.
 - 🎓 Computer Science graduate from the Faculty of Computer Science, Khon Kaen University (Class of 2024).
 - 💻 Passionate about designing and developing innovative websites and applications.
 - 🚀 Fast learner, collaborative team player, problem solver, and thrives under pressure.
 - 🔭 Always eager to explore and master new technologies to build impactful projects.
-- 🤝 Able to collaborate effectively with others
-- 🚀 Quick to learn new technologies
-- 🔄 Continuously improving myself
-- ⚡ Skilled at solving problems on the spot
-- 💪 Able to work well under pressure
 ------
+
+### ✨ My Strengths
+- 🤝 Able to collaborate effectively with others  
+- 🚀 Quick to learn new technologies  
+- 🔄 Continuously improving myself  
+- ⚡ Skilled at solving problems on the spot  
+- 💪 Able to work well under pressure
+  
+---
 
 ### 🌐 Socials:
 - 📧 Email: [cholthicha.bfc@gmail.com](mailto:cholthicha.bfc@gmail.com)
