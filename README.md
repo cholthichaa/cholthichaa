@@ -2,7 +2,7 @@
 
 ### About Me:
 - 👋 I'm Thicha, 23 years old
-- 🎓 Computer Science graduate from the Faculty of Computer Science, Khon Kaen University (Class of 2026).
+- 🎓 Computer Science graduate from the Faculty of Computer Science, Khon Kaen University (Class of 2025).
 - 💻 Passionate about designing and developing innovative websites and applications.
 - 🚀 Fast learner, collaborative team player, problem solver, and thrives under pressure.
 - 🔭 Always eager to explore and master new technologies to build impactful projects.
